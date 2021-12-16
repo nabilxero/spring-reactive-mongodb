@@ -8,7 +8,6 @@ import lombok.RequiredArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@RequiredArgsConstructor
 public class ProductDto {
     private String id;
     private String name;
